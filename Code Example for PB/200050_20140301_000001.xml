@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pam:message xmlns:pam="http://prismstandard.org/namespaces/pam/2.0/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:pim="http://prismstandard.org/namespaces/pim/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prl="http://prismstandard.org/namespaces/prl/2.0/" xmlns:cc="http://www.napubco.com/namespaces/concourse/">
+<pam:article xml:lang="en-US">
+<head>
+<dc:identifier>900079000001</dc:identifier>
+<cc:ID>200050</cc:ID>
+<cc:mediaType>serial</cc:mediaType>
+<dc:format>hardcopy</dc:format>
+<cc:OCLCCat>61312736</cc:OCLCCat>
+<prism:issueIdentifier>900079</prism:issueIdentifier>
+<dc:title>Front Cover</dc:title>
+<cc:category>Front Cover</cc:category>
+<prism:publicationName>Playboy</prism:publicationName>
+<prism:issn>0032-1478</prism:issn>
+<dc:publisher>HMH Publishing Co., Inc.</dc:publisher>
+<prism:coverDate>2014-03-01</prism:coverDate>
+<prism:coverDisplayDate>March 2014</prism:coverDisplayDate>
+<prism:volume>61</prism:volume>
+<prism:number>2</prism:number>
+<prism:edition>United States</prism:edition>
+<prism:startingPage>CV1</prism:startingPage>
+<prism:pageRange>CV1,9</prism:pageRange>
+<prism:section>Front Cover</prism:section>
+<dc:description />
+<prism:wordCount>38</prism:wordCount>
+</head>
+<ocr_content ocrconf="71">
+<cc:zoneImage cc:src="200050_20140301_001_001_CV1.jpg">
+<cc:zonePage id="CV1" cc:ulx="0" cc:uly="0" cc:lrx="2400" cc:lry="3225">
+<cc:zoneColumn cc:zoneSeq="1" cc:ulx="128" cc:uly="1000" cc:lrx="2304" cc:lry="1838">
+<cc:zoneWord>
+<cc:text>A</cc:text>
+<cc:text_coord cc:ulx="158" cc:uly="1050" cc:lrx="178" cc:lry="1080" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="2" cc:ulx="95" cc:uly="1843" cc:lrx="719" cc:lry="2751">
+<cc:zoneWord>
+<cc:text>PUP</cc:text>
+<cc:text_coord cc:ulx="95" cc:uly="2243" cc:lrx="721" cc:lry="2595" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="3" cc:ulx="1736" cc:uly="1802" cc:lrx="2278" cc:lry="2398">
+<cc:zoneWord>
+<cc:text>b</cc:text>
+<cc:text_coord cc:ulx="1766" cc:uly="1852" cc:lrx="1786" cc:lry="1882" />
+</cc:zoneWord>
+</cc:zoneColumn>
+</cc:zonePage>
+</cc:zoneImage>
+</ocr_content>
+<body keyconf="71">
+<p>FEMALE ORGASM CULT</p>
+<p>INTERVIEW: GAWKER'S NICK DENTON</p>
+<p>A CRAZED WEEKEND WITH THE IRON SHEIK</p>
+<p>BEST BOOZE IN THE WORLD</p>
+<p>CARS OF THE YEAR</p>
+<p>PRESCRIPTION ; FOR DEATH</p>
+<p>20Q: TY BURRELL</p>
+<pam:media cc:pageRef="CV1" id="1" cc:ulx="41" cc:uly="44" cc:lrx="2391" cc:lry="3191">
+<pam:credit>BY MICHAEL BERNARD</pam:credit>
+<pam:textDescription>Photo</pam:textDescription>
+</pam:media>
+</body>
+</pam:article>
+</pam:message>
+

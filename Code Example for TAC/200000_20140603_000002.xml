@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pam:message xmlns:pam="http://prismstandard.org/namespaces/pam/2.0/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:pim="http://prismstandard.org/namespaces/pim/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prl="http://prismstandard.org/namespaces/prl/2.0/" xmlns:cc="http://www.napubco.com/namespaces/concourse/">
+<pam:article xml:lang="en-US">
+<head>
+<dc:identifier>000148000002</dc:identifier>
+<cc:ID>200000</cc:ID>
+<cc:mediaType>serial</cc:mediaType>
+<dc:format>hardcopy</dc:format>
+<cc:OCLCCat>4914192</cc:OCLCCat>
+<prism:issueIdentifier>000148</prism:issueIdentifier>
+<cc:company>FOOT LEVELERS</cc:company>
+<cc:product>FOOT LEVELERS</cc:product>
+<cc:ad-size>Full-page</cc:ad-size>
+<cc:category>Display Ad</cc:category>
+<prism:publicationName>The American Chiropractor</prism:publicationName>
+<prism:issn>0194-6536</prism:issn>
+<dc:publisher>The American Chiropractor</dc:publisher>
+<prism:coverDate>20140603</prism:coverDate>
+<prism:coverDisplayDate>2014-2015</prism:coverDisplayDate>
+<prism:volume>36</prism:volume>
+<prism:number>0</prism:number>
+<prism:edition>United States</prism:edition>
+<prism:startingPage>C2</prism:startingPage>
+<prism:pageRange>C2</prism:pageRange>
+<dc:description />
+<prism:keyword />
+<dc:subject></dc:subject>
+</head>
+<ocr_content ocrconf="98">
+<cc:zoneImage cc:src="200000_20140603_002.jpg">
+<cc:zonePage id="C2" cc:ulx="0" cc:uly="0" cc:lrx="2361" cc:lry="3261">
+<cc:zoneColumn cc:zoneSeq="1" cc:ulx="145" cc:uly="83" cc:lrx="2266" cc:lry="839">
+<cc:zoneWord>
+<cc:text>OUR</cc:text>
+<cc:text_coord cc:ulx="177" cc:uly="171" cc:lrx="565" cc:lry="335" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>FREE</cc:text>
+<cc:text_coord cc:ulx="629" cc:uly="171" cc:lrx="1025" cc:lry="335" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>QIFT</cc:text>
+<cc:text_coord cc:ulx="1089" cc:uly="171" cc:lrx="1473" cc:lry="375" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>TO</cc:text>
+<cc:text_coord cc:ulx="1521" cc:uly="171" cc:lrx="1765" cc:lry="335" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>YOU</cc:text>
+<cc:text_coord cc:ulx="1825" cc:uly="171" cc:lrx="2189" cc:lry="335" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Communicate</cc:text>
+<cc:text_coord cc:ulx="439" cc:uly="429" cc:lrx="1139" cc:lry="517" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>The</cc:text>
+<cc:text_coord cc:ulx="1179" cc:uly="429" cc:lrx="1361" cc:lry="517" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Benefits</cc:text>
+<cc:text_coord cc:ulx="1407" cc:uly="427" cc:lrx="1789" cc:lry="539" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Of</cc:text>
+<cc:text_coord cc:ulx="1835" cc:uly="427" cc:lrx="1955" cc:lry="539" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Stabilizing</cc:text>
+<cc:text_coord cc:ulx="283" cc:uly="559" cc:lrx="777" cc:lry="671" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Orthotics</cc:text>
+<cc:text_coord cc:ulx="819" cc:uly="559" cc:lrx="1263" cc:lry="647" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>To</cc:text>
+<cc:text_coord cc:ulx="1303" cc:uly="563" cc:lrx="1411" cc:lry="647" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Your</cc:text>
+<cc:text_coord cc:ulx="1449" cc:uly="563" cc:lrx="1669" cc:lry="647" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Patients</cc:text>
+<cc:text_coord cc:ulx="1713" cc:uly="559" cc:lrx="2085" cc:lry="647" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>With</cc:text>
+<cc:text_coord cc:ulx="503" cc:uly="687" cc:lrx="715" cc:lry="777" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>This</cc:text>
+<cc:text_coord cc:ulx="759" cc:uly="687" cc:lrx="959" cc:lry="777" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>FREE</cc:text>
+<cc:text_coord cc:ulx="1009" cc:uly="691" cc:lrx="1251" cc:lry="775" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Poster</cc:text>
+<cc:text_coord cc:ulx="1301" cc:uly="691" cc:lrx="1601" cc:lry="777" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Pack</cc:text>
+<cc:text_coord cc:ulx="1649" cc:uly="687" cc:lrx="1871" cc:lry="777" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="2" cc:ulx="668" cc:uly="1001" cc:lrx="948" cc:lry="1643">
+<cc:zoneWord>
+<cc:text>RECOVER</cc:text>
+<cc:text_coord cc:ulx="688" cc:uly="1030" cc:lrx="882" cc:lry="1059" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>FASTER</cc:text>
+<cc:text_coord cc:ulx="688" cc:uly="1074" cc:lrx="848" cc:lry="1105" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>FROM</cc:text>
+<cc:text_coord cc:ulx="688" cc:uly="1120" cc:lrx="805" cc:lry="1151" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>BACK</cc:text>
+<cc:text_coord cc:ulx="688" cc:uly="1164" cc:lrx="804" cc:lry="1197" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>PAIN</cc:text>
+<cc:text_coord cc:ulx="821" cc:uly="1159" cc:lrx="914" cc:lry="1191" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>FROM</cc:text>
+<cc:text_coord cc:ulx="686" cc:uly="1376" cc:lrx="745" cc:lry="1395" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>THE</cc:text>
+<cc:text_coord cc:ulx="754" cc:uly="1371" cc:lrx="795" cc:lry="1388" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>OROUNDUI</cc:text>
+<cc:text_coord cc:ulx="803" cc:uly="1361" cc:lrx="916" cc:lry="1384" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>"1</cc:text>
+<cc:text_coord cc:ulx="836" cc:uly="1519" cc:lrx="950" cc:lry="1645" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="3" cc:ulx="188" cc:uly="1899" cc:lrx="1339" cc:lry="2470">
+<cc:zoneWord>
+<cc:text>f</cc:text>
+<cc:text_coord cc:ulx="218" cc:uly="1949" cc:lrx="238" cc:lry="1979" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="4" cc:ulx="1346" cc:uly="1913" cc:lrx="2189" cc:lry="2443">
+<cc:zoneWord>
+<cc:text>Balanced</cc:text>
+<cc:text_coord cc:ulx="1438" cc:uly="1980" cc:lrx="1601" cc:lry="2017" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>vs</cc:text>
+<cc:text_coord cc:ulx="1614" cc:uly="1989" cc:lrx="1652" cc:lry="2017" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Imbalanced</cc:text>
+<cc:text_coord cc:ulx="1667" cc:uly="1980" cc:lrx="1873" cc:lry="2017" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Poster</cc:text>
+<cc:text_coord cc:ulx="1887" cc:uly="1980" cc:lrx="2004" cc:lry="2017" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Recover</cc:text>
+<cc:text_coord cc:ulx="1439" cc:uly="2079" cc:lrx="1584" cc:lry="2115" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>from</cc:text>
+<cc:text_coord cc:ulx="1597" cc:uly="2078" cc:lrx="1680" cc:lry="2115" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Back</cc:text>
+<cc:text_coord cc:ulx="1697" cc:uly="2079" cc:lrx="1780" cc:lry="2115" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Pain</cc:text>
+<cc:text_coord cc:ulx="1796" cc:uly="2078" cc:lrx="1868" cc:lry="2115" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Faster</cc:text>
+<cc:text_coord cc:ulx="1884" cc:uly="2079" cc:lrx="1994" cc:lry="2115" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Poster</cc:text>
+<cc:text_coord cc:ulx="2009" cc:uly="2079" cc:lrx="2124" cc:lry="2115" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>X-Ray</cc:text>
+<cc:text_coord cc:ulx="1438" cc:uly="2176" cc:lrx="1538" cc:lry="2220" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Results</cc:text>
+<cc:text_coord cc:ulx="1553" cc:uly="2176" cc:lrx="1684" cc:lry="2212" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Poster</cc:text>
+<cc:text_coord cc:ulx="1699" cc:uly="2176" cc:lrx="1815" cc:lry="2212" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>These</cc:text>
+<cc:text_coord cc:ulx="1384" cc:uly="2269" cc:lrx="1497" cc:lry="2299" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>three</cc:text>
+<cc:text_coord cc:ulx="1512" cc:uly="2270" cc:lrx="1614" cc:lry="2299" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>posters</cc:text>
+<cc:text_coord cc:ulx="1631" cc:uly="2270" cc:lrx="1773" cc:lry="2306" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>will</cc:text>
+<cc:text_coord cc:ulx="1788" cc:uly="2269" cc:lrx="1851" cc:lry="2299" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>help</cc:text>
+<cc:text_coord cc:ulx="1868" cc:uly="2270" cc:lrx="1946" cc:lry="2306" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>explain</cc:text>
+<cc:text_coord cc:ulx="1961" cc:uly="2269" cc:lrx="2097" cc:lry="2306" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>to</cc:text>
+<cc:text_coord cc:ulx="1383" cc:uly="2319" cc:lrx="1422" cc:lry="2349" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>patients</cc:text>
+<cc:text_coord cc:ulx="1438" cc:uly="2319" cc:lrx="1596" cc:lry="2356" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>how</cc:text>
+<cc:text_coord cc:ulx="1614" cc:uly="2320" cc:lrx="1686" cc:lry="2349" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>their</cc:text>
+<cc:text_coord cc:ulx="1701" cc:uly="2319" cc:lrx="1794" cc:lry="2349" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>feet</cc:text>
+<cc:text_coord cc:ulx="1808" cc:uly="2319" cc:lrx="1882" cc:lry="2349" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>affect</cc:text>
+<cc:text_coord cc:ulx="1899" cc:uly="2319" cc:lrx="2010" cc:lry="2349" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>the</cc:text>
+<cc:text_coord cc:ulx="2025" cc:uly="2320" cc:lrx="2088" cc:lry="2349" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>rest</cc:text>
+<cc:text_coord cc:ulx="1385" cc:uly="2370" cc:lrx="1459" cc:lry="2399" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>of</cc:text>
+<cc:text_coord cc:ulx="1476" cc:uly="2369" cc:lrx="1510" cc:lry="2399" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>their</cc:text>
+<cc:text_coord cc:ulx="1525" cc:uly="2369" cc:lrx="1618" cc:lry="2399" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>whole</cc:text>
+<cc:text_coord cc:ulx="1632" cc:uly="2370" cc:lrx="1742" cc:lry="2399" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>body</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2370" cc:lrx="1848" cc:lry="2407" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wellness</cc:text>
+<cc:text_coord cc:ulx="1863" cc:uly="2370" cc:lrx="2038" cc:lry="2399" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="5" cc:ulx="523" cc:uly="2562" cc:lrx="1838" cc:lry="2797">
+<cc:zoneWord>
+<cc:text>Supporting</cc:text>
+<cc:text_coord cc:ulx="633" cc:uly="2624" cc:lrx="1167" cc:lry="2748" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Every</cc:text>
+<cc:text_coord cc:ulx="1209" cc:uly="2628" cc:lrx="1457" cc:lry="2748" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Body</cc:text>
+<cc:text_coord cc:ulx="1499" cc:uly="2626" cc:lrx="1739" cc:lry="2748" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="6" cc:ulx="448" cc:uly="2868" cc:lrx="1378" cc:lry="3192">
+<cc:zoneWord>
+<cc:text>FootLevelerscom</cc:text>
+<cc:text_coord cc:ulx="508" cc:uly="2904" cc:lrx="1070" cc:lry="2959" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>f</cc:text>
+<cc:text_coord cc:ulx="1134" cc:uly="2904" cc:lrx="1162" cc:lry="2954" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>z</cc:text>
+<cc:text_coord cc:ulx="1273" cc:uly="2904" cc:lrx="1317" cc:lry="2954" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>8005534860</cc:text>
+<cc:text_coord cc:ulx="774" cc:uly="2998" cc:lrx="1316" cc:lry="3058" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>To</cc:text>
+<cc:text_coord cc:ulx="596" cc:uly="3140" cc:lrx="633" cc:lry="3167" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>learn</cc:text>
+<cc:text_coord cc:ulx="646" cc:uly="3140" cc:lrx="725" cc:lry="3167" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>more,</cc:text>
+<cc:text_coord cc:ulx="739" cc:uly="3148" cc:lrx="827" cc:lry="3172" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>circle</cc:text>
+<cc:text_coord cc:ulx="839" cc:uly="3140" cc:lrx="924" cc:lry="3167" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>#31</cc:text>
+<cc:text_coord cc:ulx="933" cc:uly="3140" cc:lrx="987" cc:lry="3167" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>on</cc:text>
+<cc:text_coord cc:ulx="1000" cc:uly="3148" cc:lrx="1038" cc:lry="3167" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>The</cc:text>
+<cc:text_coord cc:ulx="1050" cc:uly="3140" cc:lrx="1110" cc:lry="3167" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Action</cc:text>
+<cc:text_coord cc:ulx="1119" cc:uly="3140" cc:lrx="1222" cc:lry="3167" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Card</cc:text>
+<cc:text_coord cc:ulx="1235" cc:uly="3139" cc:lrx="1316" cc:lry="3167" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="7" cc:ulx="1477" cc:uly="3138" cc:lrx="1899" cc:lry="3192">
+<cc:zoneWord>
+<cc:text>©</cc:text>
+<cc:text_coord cc:ulx="1500" cc:uly="3149" cc:lrx="1520" cc:lry="3170" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>2014</cc:text>
+<cc:text_coord cc:ulx="1527" cc:uly="3149" cc:lrx="1585" cc:lry="3170" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Foot</cc:text>
+<cc:text_coord cc:ulx="1594" cc:uly="3149" cc:lrx="1647" cc:lry="3170" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Levelers,</cc:text>
+<cc:text_coord cc:ulx="1656" cc:uly="3150" cc:lrx="1766" cc:lry="3172" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Inc</cc:text>
+<cc:text_coord cc:ulx="1777" cc:uly="3150" cc:lrx="1819" cc:lry="3170" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="9" cc:ulx="1438" cc:uly="3049" cc:lrx="1906" cc:lry="3133">
+<cc:zoneWord>
+<cc:text>D</cc:text>
+<cc:text_coord cc:ulx="1468" cc:uly="3099" cc:lrx="1488" cc:lry="3129" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="10" cc:ulx="501" cc:uly="2890" cc:lrx="1085" cc:lry="2976">
+<cc:zoneWord>
+<cc:text>FootLevelerscom</cc:text>
+<cc:text_coord cc:ulx="508" cc:uly="2905" cc:lrx="1070" cc:lry="2959" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.FootLevelers.com" cc:ulx="501" cc:uly="2890" cc:lrx="1085" cc:lry="2976"/>
+</cc:zoneColumn>
+</cc:zonePage>
+</cc:zoneImage>
+</ocr_content>
+<body keyconf="98">
+<p>OUR FREE QI FT TO YOU</p>
+<p>Communicate The Benefits Of</p>
+<p>Stabilizing Orthotics To Your Patients</p>
+<p>With This FREE Poster Pack</p>
+<p>RECOVER FASTER FROM BACK PAIN</p>
+<p>FROM THE OROUND</p>
+<p>ortW'V</p>
+<p>Order our Patient Education Poster Pack for FREE</p>
+<p>CODE: POPTAC Exp: 6.30.14</p>
+<p>Offer valid in US and Canada only. Limit one poster pack per office. Not redeemable for cash.</p>
+<p>Balanced vs Imbalanced Poster</p>
+<p>Recover from Back Pain Faster Poster</p>
+<p>X-Ray Results Poster</p>
+<p>These three posters will help explain to patients how their feet affect the rest of their whole body wellness.</p>
+<p>Supporting Every Body</p>
+<p>FootLevelers.com f * /z 800.553.4860</p>
+<p>To learn more, circle #31 on The Action Card</p>
+<p>© 2014 Foot Levelers, Inc.</p>
+</body>
+</pam:article>
+</pam:message>
+

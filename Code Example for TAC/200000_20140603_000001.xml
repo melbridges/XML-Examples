@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<pam:message xmlns:pam="http://prismstandard.org/namespaces/pam/2.0/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:pim="http://prismstandard.org/namespaces/pim/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prl="http://prismstandard.org/namespaces/prl/2.0/" xmlns:cc="http://www.napubco.com/namespaces/concourse/">
+<pam:article xml:lang="en-US">
+<head>
+<dc:identifier>000148000001</dc:identifier>
+<cc:ID>200000</cc:ID>
+<cc:mediaType>serial</cc:mediaType>
+<dc:format>hardcopy</dc:format>
+<cc:OCLCCat>4914192</cc:OCLCCat>
+<prism:issueIdentifier>000148</prism:issueIdentifier>
+<dc:title>Front Cover</dc:title>
+<cc:category>Front Cover</cc:category>
+<prism:publicationName>The American Chiropractor</prism:publicationName>
+<prism:issn>0194-6536</prism:issn>
+<dc:publisher>The American Chiropractor</dc:publisher>
+<prism:coverDate>20140603</prism:coverDate>
+<prism:coverDisplayDate>2014-2015</prism:coverDisplayDate>
+<prism:volume>36</prism:volume>
+<prism:number>0</prism:number>
+<prism:edition>United States</prism:edition>
+<prism:startingPage>C1</prism:startingPage>
+<prism:pageRange>C1</prism:pageRange>
+<prism:section>Front Cover</prism:section>
+<dc:description />
+<prism:wordCount>10</prism:wordCount>
+</head>
+<ocr_content ocrconf="49">
+<cc:zoneImage cc:src="200000_20140603_001.jpg">
+<cc:zonePage id="C1" cc:ulx="0" cc:uly="0" cc:lrx="2361" cc:lry="3261">
+<cc:zoneColumn cc:zoneSeq="1" cc:ulx="34" cc:uly="2134" cc:lrx="1026" cc:lry="2619">
+<cc:zoneWord>
+<cc:text>A</cc:text>
+<cc:text_coord cc:ulx="64" cc:uly="2184" cc:lrx="84" cc:lry="2214" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="2" cc:ulx="1293" cc:uly="2416" cc:lrx="2199" cc:lry="2902">
+<cc:zoneWord>
+<cc:text>P</cc:text>
+<cc:text_coord cc:ulx="1323" cc:uly="2466" cc:lrx="1343" cc:lry="2496" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="3" cc:ulx="1744" cc:uly="3095" cc:lrx="2279" cc:lry="3188">
+<cc:zoneWord>
+<cc:text>b</cc:text>
+<cc:text_coord cc:ulx="1774" cc:uly="3145" cc:lrx="1794" cc:lry="3175" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="4" cc:ulx="603" cc:uly="2466" cc:lrx="828" cc:lry="2543">
+<cc:zoneWord>
+<cc:text>f</cc:text>
+<cc:text_coord cc:ulx="633" cc:uly="2516" cc:lrx="653" cc:lry="2546" />
+</cc:zoneWord>
+<cc:zoneJump destination="45" cc:ulx="603" cc:uly="2466" cc:lrx="828" cc:lry="2543"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="5" cc:ulx="1961" cc:uly="2756" cc:lrx="2176" cc:lry="2824">
+<cc:zoneWord>
+<cc:text>D</cc:text>
+<cc:text_coord cc:ulx="1991" cc:uly="2806" cc:lrx="2011" cc:lry="2836" />
+</cc:zoneWord>
+<cc:zoneJump destination="57" cc:ulx="1961" cc:uly="2756" cc:lrx="2176" cc:lry="2824"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="6" cc:ulx="1748" cc:uly="3117" cc:lrx="2219" cc:lry="3172">
+<cc:zoneWord>
+<cc:text>A</cc:text>
+<cc:text_coord cc:ulx="1778" cc:uly="3167" cc:lrx="1798" cc:lry="3197" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.TheAmericanChiropractor.com" cc:ulx="1748" cc:uly="3117" cc:lrx="2219" cc:lry="3172"/>
+</cc:zoneColumn>
+</cc:zonePage>
+</cc:zoneImage>
+</ocr_content>
+<body keyconf="49">
+<p>Showcase</p>
+<p>*	Page'</p>
+<p>Practice</p>
+<p>Essentials</p>
+<p>Page 57</p>
+<p>www.The American Chiropractor com</p>
+<pam:media cc:pageRef="C1" id="1" cc:ulx="31" cc:uly="498" cc:lrx="2352" cc:lry="3230">
+<pam:credit>[no credit]</pam:credit>
+<pam:textDescription>Photo</pam:textDescription>
+</pam:media>
+</body>
+</pam:article>
+</pam:message>
+

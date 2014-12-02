@@ -1,0 +1,1212 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pam:message xmlns:pam="http://prismstandard.org/namespaces/pam/2.0/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:pim="http://prismstandard.org/namespaces/pim/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prl="http://prismstandard.org/namespaces/prl/2.0/" xmlns:cc="http://www.napubco.com/namespaces/concourse/">
+<pam:article xml:lang="en-US">
+<head>
+<dc:identifier>000148000037</dc:identifier>
+<cc:ID>200000</cc:ID>
+<cc:mediaType>serial</cc:mediaType>
+<dc:format>hardcopy</dc:format>
+<cc:OCLCCat>4914192</cc:OCLCCat>
+<prism:issueIdentifier>000148</prism:issueIdentifier>
+<cc:company>FINANCIAL SERVICES</cc:company>
+<cc:product>FINANCIAL SERVICES</cc:product>
+<cc:ad-size>Spread</cc:ad-size>
+<cc:category>Display Ad</cc:category>
+<prism:publicationName>The American Chiropractor</prism:publicationName>
+<prism:issn>0194-6536</prism:issn>
+<dc:publisher>The American Chiropractor</dc:publisher>
+<prism:coverDate>20140603</prism:coverDate>
+<prism:coverDisplayDate>2014-2015</prism:coverDisplayDate>
+<prism:volume>36</prism:volume>
+<prism:number>0</prism:number>
+<prism:edition>United States</prism:edition>
+<prism:startingPage>22</prism:startingPage>
+<prism:pageRange>22,24</prism:pageRange>
+<dc:description />
+<prism:keyword />
+<dc:subject></dc:subject>
+</head>
+<ocr_content ocrconf="98">
+<cc:zoneImage cc:src="200000_20140603_024.jpg">
+<cc:zonePage id="22" cc:ulx="0" cc:uly="0" cc:lrx="2361" cc:lry="3261">
+<cc:zoneColumn cc:zoneSeq="1" cc:ulx="1211" cc:uly="2464" cc:lrx="1712" cc:lry="3145">
+<cc:zoneWord>
+<cc:text>4</cc:text>
+<cc:text_coord cc:ulx="1220" cc:uly="2483" cc:lrx="1236" cc:lry="2507" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>I</cc:text>
+<cc:text_coord cc:ulx="1247" cc:uly="2483" cc:lrx="1256" cc:lry="2507" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>ease</cc:text>
+<cc:text_coord cc:ulx="1261" cc:uly="2491" cc:lrx="1328" cc:lry="2507" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Help</cc:text>
+<cc:text_coord cc:ulx="1338" cc:uly="2483" cc:lrx="1405" cc:lry="2514" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>888-346-6871</cc:text>
+<cc:text_coord cc:ulx="1221" cc:uly="2525" cc:lrx="1404" cc:lry="2550" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>www41easehelpcom</cc:text>
+<cc:text_coord cc:ulx="1221" cc:uly="2566" cc:lrx="1508" cc:lry="2598" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Accord</cc:text>
+<cc:text_coord cc:ulx="1220" cc:uly="2650" cc:lrx="1322" cc:lry="2675" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>leasing</cc:text>
+<cc:text_coord cc:ulx="1335" cc:uly="2650" cc:lrx="1449" cc:lry="2681" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-347-4977</cc:text>
+<cc:text_coord cc:ulx="1221" cc:uly="2692" cc:lrx="1408" cc:lry="2716" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwaccordlcasingcom</cc:text>
+<cc:text_coord cc:ulx="1221" cc:uly="2732" cc:lrx="1555" cc:lry="2764" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Advantage</cc:text>
+<cc:text_coord cc:ulx="1220" cc:uly="2817" cc:lrx="1376" cc:lry="2848" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Claims</cc:text>
+<cc:text_coord cc:ulx="1386" cc:uly="2817" cc:lrx="1488" cc:lry="2841" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Recovery</cc:text>
+<cc:text_coord cc:ulx="1221" cc:uly="2858" cc:lrx="1354" cc:lry="2889" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Group,</cc:text>
+<cc:text_coord cc:ulx="1365" cc:uly="2858" cc:lrx="1467" cc:lry="2889" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Inc</cc:text>
+<cc:text_coord cc:ulx="1479" cc:uly="2858" cc:lrx="1531" cc:lry="2882" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-423-2419</cc:text>
+<cc:text_coord cc:ulx="1221" cc:uly="2900" cc:lrx="1408" cc:lry="2925" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwacrginccom</cc:text>
+<cc:text_coord cc:ulx="1220" cc:uly="2941" cc:lrx="1468" cc:lry="2973" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Atlantic</cc:text>
+<cc:text_coord cc:ulx="1220" cc:uly="3008" cc:lrx="1336" cc:lry="3032" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Commercial</cc:text>
+<cc:text_coord cc:ulx="1346" cc:uly="3008" cc:lrx="1524" cc:lry="3032" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Credit</cc:text>
+<cc:text_coord cc:ulx="1535" cc:uly="3008" cc:lrx="1629" cc:lry="3032" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-669-8008</cc:text>
+<cc:text_coord cc:ulx="1221" cc:uly="3050" cc:lrx="1408" cc:lry="3074" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwatlanticcommercialcom</cc:text>
+<cc:text_coord cc:ulx="1220" cc:uly="3091" cc:lrx="1630" cc:lry="3117" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="2" cc:ulx="1744" cc:uly="163" cc:lrx="2293" cc:lry="3058">
+<cc:zoneWord>
+<cc:text>Hankers</cc:text>
+<cc:text_coord cc:ulx="1759" cc:uly="167" cc:lrx="1878" cc:lry="191" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Healthcare</cc:text>
+<cc:text_coord cc:ulx="1888" cc:uly="167" cc:lrx="2048" cc:lry="191" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Group,</cc:text>
+<cc:text_coord cc:ulx="2058" cc:uly="167" cc:lrx="2159" cc:lry="198" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Inc</cc:text>
+<cc:text_coord cc:ulx="2171" cc:uly="167" cc:lrx="2223" cc:lry="192" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>866-297-4664</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="208" cc:lrx="1946" cc:lry="232" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwbhg-inccom</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="249" cc:lrx="2007" cc:lry="281" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Capital</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="333" cc:lrx="1863" cc:lry="364" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>4</cc:text>
+<cc:text_coord cc:ulx="1873" cc:uly="333" cc:lrx="1889" cc:lry="357" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Healthcare,</cc:text>
+<cc:text_coord cc:ulx="1899" cc:uly="333" cc:lrx="2066" cc:lry="362" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>LLC</cc:text>
+<cc:text_coord cc:ulx="2078" cc:uly="333" cc:lrx="2146" cc:lry="358" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-324-8808</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="375" cc:lrx="1946" cc:lry="399" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>www</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="425" cc:lrx="1828" cc:lry="440" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>capital41iealthcarecom</cc:text>
+<cc:text_coord cc:ulx="1834" cc:uly="416" cc:lrx="2151" cc:lry="448" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Chiro</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="499" cc:lrx="1844" cc:lry="525" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Capital</cc:text>
+<cc:text_coord cc:ulx="1853" cc:uly="499" cc:lrx="1958" cc:lry="531" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>888-322-2533</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="542" cc:lrx="1945" cc:lry="566" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>v</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="591" cc:lrx="1802" cc:lry="606" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>chirocapitalnet</cc:text>
+<cc:text_coord cc:ulx="1840" cc:uly="582" cc:lrx="2050" cc:lry="614" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Chiro</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="667" cc:lrx="1843" cc:lry="691" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Health</cc:text>
+<cc:text_coord cc:ulx="1853" cc:uly="667" cc:lrx="1949" cc:lry="691" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>ISA</cc:text>
+<cc:text_coord cc:ulx="1959" cc:uly="667" cc:lrx="2025" cc:lry="691" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>888-719-9990</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="708" cc:lrx="1946" cc:lry="732" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>www</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="758" cc:lrx="1828" cc:lry="773" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>cliiroliealtliusacom</cc:text>
+<cc:text_coord cc:ulx="1834" cc:uly="749" cc:lrx="2104" cc:lry="774" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Chirosecure</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="833" cc:lrx="1936" cc:lry="857" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Malpractice</cc:text>
+<cc:text_coord cc:ulx="1759" cc:uly="875" cc:lrx="1934" cc:lry="906" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Insurance</cc:text>
+<cc:text_coord cc:ulx="1946" cc:uly="875" cc:lrx="2089" cc:lry="900" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>866-802-4476</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="917" cc:lrx="1946" cc:lry="941" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>w</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="966" cc:lrx="1776" cc:lry="981" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wucliirosecurecom</cc:text>
+<cc:text_coord cc:ulx="1784" cc:uly="957" cc:lrx="2063" cc:lry="982" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>SEE</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="1000" cc:lrx="1820" cc:lry="1024" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>AD</cc:text>
+<cc:text_coord cc:ulx="1831" cc:uly="1000" cc:lrx="1876" cc:lry="1024" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>ON</cc:text>
+<cc:text_coord cc:ulx="1887" cc:uly="1000" cc:lrx="1932" cc:lry="1024" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>PAGE</cc:text>
+<cc:text_coord cc:ulx="1945" cc:uly="1000" cc:lrx="2032" cc:lry="1024" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>23</cc:text>
+<cc:text_coord cc:ulx="2042" cc:uly="1000" cc:lrx="2076" cc:lry="1024" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Clear</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="1083" cc:lrx="1838" cc:lry="1107" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Gage</cc:text>
+<cc:text_coord cc:ulx="1848" cc:uly="1083" cc:lrx="1922" cc:lry="1114" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Inc</cc:text>
+<cc:text_coord cc:ulx="1933" cc:uly="1083" cc:lrx="1984" cc:lry="1107" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-227-5932</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="1125" cc:lrx="1946" cc:lry="1149" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>www</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="1175" cc:lrx="1828" cc:lry="1190" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>cleargageinccom</cc:text>
+<cc:text_coord cc:ulx="1834" cc:uly="1166" cc:lrx="2075" cc:lry="1198" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>SEE</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="1209" cc:lrx="1820" cc:lry="1233" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>AD</cc:text>
+<cc:text_coord cc:ulx="1831" cc:uly="1209" cc:lrx="1876" cc:lry="1233" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>ON</cc:text>
+<cc:text_coord cc:ulx="1887" cc:uly="1209" cc:lrx="1932" cc:lry="1233" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>PAGE</cc:text>
+<cc:text_coord cc:ulx="1945" cc:uly="1209" cc:lrx="2032" cc:lry="1233" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>62</cc:text>
+<cc:text_coord cc:ulx="2042" cc:uly="1209" cc:lrx="2076" cc:lry="1233" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Clinic</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="1292" cc:lrx="1845" cc:lry="1316" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Doctor</cc:text>
+<cc:text_coord cc:ulx="1855" cc:uly="1292" cc:lrx="1954" cc:lry="1316" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>866-999-5859</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="1334" cc:lrx="1946" cc:lry="1358" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwclinicdrcom</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="1374" cc:lrx="2008" cc:lry="1399" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>of</cc:text>
+<cc:text_coord cc:ulx="1782" cc:uly="1459" cc:lrx="1812" cc:lry="1483" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>fin</cc:text>
+<cc:text_coord cc:ulx="1812" cc:uly="1459" cc:lrx="1847" cc:lry="1483" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>an</cc:text>
+<cc:text_coord cc:ulx="1852" cc:uly="1467" cc:lrx="1885" cc:lry="1483" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Capital,</cc:text>
+<cc:text_coord cc:ulx="1896" cc:uly="1459" cc:lrx="2010" cc:lry="1490" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Inc</cc:text>
+<cc:text_coord cc:ulx="2022" cc:uly="1459" cc:lrx="2073" cc:lry="1483" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>877-661-8069</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="1500" cc:lrx="1946" cc:lry="1524" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>w</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="1550" cc:lrx="1776" cc:lry="1565" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wv</cc:text>
+<cc:text_coord cc:ulx="1784" cc:uly="1550" cc:lrx="1837" cc:lry="1566" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>coffmancapitalcom</cc:text>
+<cc:text_coord cc:ulx="1840" cc:uly="1541" cc:lrx="2110" cc:lry="1573" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Electronic</cc:text>
+<cc:text_coord cc:ulx="1759" cc:uly="1624" cc:lrx="1907" cc:lry="1650" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Merchants</cc:text>
+<cc:text_coord cc:ulx="1918" cc:uly="1624" cc:lrx="2072" cc:lry="1650" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>System</cc:text>
+<cc:text_coord cc:ulx="2081" cc:uly="1625" cc:lrx="2182" cc:lry="1657" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-476-5020</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="1667" cc:lrx="1946" cc:lry="1691" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwelect-mercom</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="1708" cc:lrx="2030" cc:lry="1733" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Electronic</cc:text>
+<cc:text_coord cc:ulx="1759" cc:uly="1792" cc:lrx="1907" cc:lry="1816" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Transfer,</cc:text>
+<cc:text_coord cc:ulx="1922" cc:uly="1792" cc:lrx="2047" cc:lry="1821" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Inc</cc:text>
+<cc:text_coord cc:ulx="2059" cc:uly="1792" cc:lrx="2110" cc:lry="1817" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-757-5453</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="1834" cc:lrx="1945" cc:lry="1858" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwelectronictranstbrcom</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="1874" cc:lrx="2142" cc:lry="1899" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Fidelity</cc:text>
+<cc:text_coord cc:ulx="1759" cc:uly="1959" cc:lrx="1869" cc:lry="1990" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Capital</cc:text>
+<cc:text_coord cc:ulx="1880" cc:uly="1959" cc:lrx="1985" cc:lry="1990" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>(We</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="2000" cc:lrx="1814" cc:lry="2029" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>can</cc:text>
+<cc:text_coord cc:ulx="1824" cc:uly="2008" cc:lrx="1868" cc:lry="2024" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>finance</cc:text>
+<cc:text_coord cc:ulx="1879" cc:uly="1999" cc:lrx="1974" cc:lry="2024" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>you)</cc:text>
+<cc:text_coord cc:ulx="1984" cc:uly="2000" cc:lrx="2056" cc:lry="2031" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>949-502-5900</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="2042" cc:lrx="1946" cc:lry="2066" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>ext</cc:text>
+<cc:text_coord cc:ulx="1955" cc:uly="2046" cc:lrx="2001" cc:lry="2066" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>243</cc:text>
+<cc:text_coord cc:ulx="2012" cc:uly="2042" cc:lrx="2060" cc:lry="2066" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwfi</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2083" cc:lrx="1857" cc:lry="2108" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>del</cc:text>
+<cc:text_coord cc:ulx="1861" cc:uly="2083" cc:lrx="1898" cc:lry="2108" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>itycapitalonlinccom</cc:text>
+<cc:text_coord cc:ulx="1904" cc:uly="2083" cc:lrx="2179" cc:lry="2115" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Funding</cc:text>
+<cc:text_coord cc:ulx="1759" cc:uly="2167" cc:lrx="1883" cc:lry="2198" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Well</cc:text>
+<cc:text_coord cc:ulx="1890" cc:uly="2167" cc:lrx="1956" cc:lry="2191" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Capital</cc:text>
+<cc:text_coord cc:ulx="1966" cc:uly="2167" cc:lrx="2071" cc:lry="2198" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>866-578-9355</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2208" cc:lrx="1945" cc:lry="2233" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwfundingwellcapitalcom</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2249" cc:lrx="2162" cc:lry="2281" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>GE</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2334" cc:lrx="1804" cc:lry="2358" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Healthcare</cc:text>
+<cc:text_coord cc:ulx="1816" cc:uly="2334" cc:lrx="1975" cc:lry="2358" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Financial</cc:text>
+<cc:text_coord cc:ulx="1759" cc:uly="2375" cc:lrx="1893" cc:lry="2399" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Services</cc:text>
+<cc:text_coord cc:ulx="1904" cc:uly="2375" cc:lrx="2023" cc:lry="2399" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-598-6201</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2417" cc:lrx="1941" cc:lry="2442" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwgeliealthcarefinancecom</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2458" cc:lrx="2178" cc:lry="2490" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>GSR</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2541" cc:lrx="1839" cc:lry="2566" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Physicians</cc:text>
+<cc:text_coord cc:ulx="1848" cc:uly="2542" cc:lrx="2007" cc:lry="2573" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Billing</cc:text>
+<cc:text_coord cc:ulx="2018" cc:uly="2542" cc:lrx="2115" cc:lry="2573" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Service</cc:text>
+<cc:text_coord cc:ulx="2124" cc:uly="2542" cc:lrx="2230" cc:lry="2566" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>888-918-5233</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2584" cc:lrx="1945" cc:lry="2608" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwgsrpbscom</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2624" cc:lrx="1994" cc:lry="2656" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Horizon</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2709" cc:lrx="1876" cc:lry="2733" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Keystone</cc:text>
+<cc:text_coord cc:ulx="1887" cc:uly="2709" cc:lrx="2019" cc:lry="2740" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Financial</cc:text>
+<cc:text_coord cc:ulx="2030" cc:uly="2708" cc:lrx="2164" cc:lry="2733" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-606-0049</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2750" cc:lrx="1946" cc:lry="2774" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwappKlbrleasecom</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2791" cc:lrx="2086" cc:lry="2823" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Inselman</cc:text>
+<cc:text_coord cc:ulx="1759" cc:uly="2875" cc:lrx="1892" cc:lry="2899" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Coaching</cc:text>
+<cc:text_coord cc:ulx="1902" cc:uly="2875" cc:lrx="2041" cc:lry="2906" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>888-201-0567</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2917" cc:lrx="1946" cc:lry="2942" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwinselmancoacliingcom</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2958" cc:lrx="2153" cc:lry="2990" />
+</cc:zoneWord>
+</cc:zoneColumn>
+</cc:zonePage>
+</cc:zoneImage>
+<cc:zoneImage cc:src="200000_20140603_026.jpg">
+<cc:zonePage id="24" cc:ulx="0" cc:uly="0" cc:lrx="2361" cc:lry="3261">
+<cc:zoneColumn cc:zoneSeq="3" cc:ulx="1179" cc:uly="160" cc:lrx="1728" cc:lry="2100">
+<cc:zoneWord>
+<cc:text>Leaf</cc:text>
+<cc:text_coord cc:ulx="1203" cc:uly="184" cc:lrx="1270" cc:lry="210" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Financial</cc:text>
+<cc:text_coord cc:ulx="1278" cc:uly="185" cc:lrx="1411" cc:lry="209" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Corporation</cc:text>
+<cc:text_coord cc:ulx="1422" cc:uly="185" cc:lrx="1602" cc:lry="216" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-819-5556</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="227" cc:lrx="1387" cc:lry="251" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wI</cc:text>
+<cc:text_coord cc:ulx="1254" cc:uly="268" cc:lrx="1292" cc:lry="292" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>KAF-rinancialcom</cc:text>
+<cc:text_coord cc:ulx="1299" cc:uly="267" cc:lrx="1566" cc:lry="292" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>MedChex</cc:text>
+<cc:text_coord cc:ulx="1203" cc:uly="351" cc:lrx="1343" cc:lry="377" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>866-709-1</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="393" cc:lrx="1334" cc:lry="417" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>100</cc:text>
+<cc:text_coord cc:ulx="1342" cc:uly="393" cc:lrx="1386" cc:lry="417" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>ext</cc:text>
+<cc:text_coord cc:ulx="1395" cc:uly="396" cc:lrx="1442" cc:lry="417" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>101</cc:text>
+<cc:text_coord cc:ulx="1457" cc:uly="392" cc:lrx="1495" cc:lry="418" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>www</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="443" cc:lrx="1281" cc:lry="459" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>mcdchexorg</cc:text>
+<cc:text_coord cc:ulx="1285" cc:uly="434" cc:lrx="1458" cc:lry="466" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>SEE</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="477" cc:lrx="1264" cc:lry="501" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>AD</cc:text>
+<cc:text_coord cc:ulx="1275" cc:uly="477" cc:lrx="1320" cc:lry="501" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>ON</cc:text>
+<cc:text_coord cc:ulx="1331" cc:uly="477" cc:lrx="1376" cc:lry="501" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>PAGE</cc:text>
+<cc:text_coord cc:ulx="1389" cc:uly="477" cc:lrx="1476" cc:lry="501" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>27</cc:text>
+<cc:text_coord cc:ulx="1486" cc:uly="477" cc:lrx="1519" cc:lry="501" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>NCMIC</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="559" cc:lrx="1321" cc:lry="585" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-769-200</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="601" cc:lrx="1373" cc:lry="626" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>cxt</cc:text>
+<cc:text_coord cc:ulx="1383" cc:uly="605" cc:lrx="1429" cc:lry="626" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>4200</cc:text>
+<cc:text_coord cc:ulx="1439" cc:uly="602" cc:lrx="1506" cc:lry="626" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwncmiccom</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="642" cc:lrx="1431" cc:lry="667" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>financial</cc:text>
+<cc:text_coord cc:ulx="1447" cc:uly="642" cc:lrx="1563" cc:lry="667" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>North</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="726" cc:lrx="1287" cc:lry="752" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>American</cc:text>
+<cc:text_coord cc:ulx="1297" cc:uly="727" cc:lrx="1441" cc:lry="751" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Bancard</cc:text>
+<cc:text_coord cc:ulx="1453" cc:uly="726" cc:lrx="1573" cc:lry="752" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>866-321-0877</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="768" cc:lrx="1387" cc:lry="792" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwnorthamcricanbancardscom</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="809" cc:lrx="1672" cc:lry="834" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>OlM</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="893" cc:lrx="1285" cc:lry="917" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Chiropractor</cc:text>
+<cc:text_coord cc:ulx="1295" cc:uly="893" cc:lrx="1489" cc:lry="925" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Program</cc:text>
+<cc:text_coord cc:ulx="1499" cc:uly="893" cc:lrx="1627" cc:lry="923" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-453-2776</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="935" cc:lrx="1390" cc:lry="960" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwoumchiropractorcom</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="976" cc:lrx="1576" cc:lry="1008" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Patient</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1060" cc:lrx="1305" cc:lry="1084" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Payment</cc:text>
+<cc:text_coord cc:ulx="1314" cc:uly="1060" cc:lrx="1441" cc:lry="1091" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Solutions</cc:text>
+<cc:text_coord cc:ulx="1450" cc:uly="1060" cc:lrx="1583" cc:lry="1084" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-501-3897</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1102" cc:lrx="1386" cc:lry="1126" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwPatientPa</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1142" cc:lrx="1421" cc:lry="1167" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>nientSolutionscom</cc:text>
+<cc:text_coord cc:ulx="1430" cc:uly="1142" cc:lrx="1688" cc:lry="1167" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Paychex</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1227" cc:lrx="1318" cc:lry="1258" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-322-7292</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1268" cc:lrx="1388" cc:lry="1293" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>w</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1318" cc:lrx="1220" cc:lry="1333" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>w</cc:text>
+<cc:text_coord cc:ulx="1228" cc:uly="1318" cc:lrx="1246" cc:lry="1334" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>w</cc:text>
+<cc:text_coord cc:ulx="1254" cc:uly="1318" cc:lrx="1273" cc:lry="1334" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>paychexcom</cc:text>
+<cc:text_coord cc:ulx="1285" cc:uly="1309" cc:lrx="1460" cc:lry="1341" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Physicians</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1394" cc:lrx="1353" cc:lry="1425" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Specialty</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1435" cc:lrx="1334" cc:lry="1466" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Services</cc:text>
+<cc:text_coord cc:ulx="1345" cc:uly="1435" cc:lrx="1464" cc:lry="1459" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-706-5722</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1477" cc:lrx="1389" cc:lry="1501" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwphysiciansspecialty</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="1518" cc:lrx="1563" cc:lry="1551" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>services,</cc:text>
+<cc:text_coord cc:ulx="1567" cc:uly="1518" cc:lrx="1688" cc:lry="1543" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>com</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="1568" cc:lrx="1258" cc:lry="1584" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>ProMed</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1644" cc:lrx="1319" cc:lry="1668" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Financial,</cc:text>
+<cc:text_coord cc:ulx="1331" cc:uly="1644" cc:lrx="1474" cc:lry="1673" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Inc</cc:text>
+<cc:text_coord cc:ulx="1486" cc:uly="1644" cc:lrx="1536" cc:lry="1668" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>888-277-6633</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1685" cc:lrx="1387" cc:lry="1709" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwpromed-financialcom</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1726" cc:lrx="1585" cc:lry="1758" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Sharpe</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1810" cc:lrx="1306" cc:lry="1841" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Equipment</cc:text>
+<cc:text_coord cc:ulx="1317" cc:uly="1810" cc:lrx="1477" cc:lry="1841" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Leasing,</cc:text>
+<cc:text_coord cc:ulx="1487" cc:uly="1810" cc:lrx="1607" cc:lry="1841" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>Lie</cc:text>
+<cc:text_coord cc:ulx="1619" cc:uly="1809" cc:lrx="1670" cc:lry="1834" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>800-886-4920</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1852" cc:lrx="1396" cc:lry="1876" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwsharpeleasecom</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1893" cc:lrx="1507" cc:lry="1925" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>TheHKLPcard</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="1977" cc:lrx="1424" cc:lry="2001" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>888-750-6793</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="2019" cc:lrx="1387" cc:lry="2043" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwwhelpcardcom</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="2059" cc:lrx="1466" cc:lry="2091" />
+</cc:zoneWord>
+</cc:zoneColumn>
+</cc:zonePage>
+</cc:zoneImage>
+<cc:zoneImage cc:src="200000_20140603_024.jpg">
+<cc:zonePage id="22" cc:ulx="0" cc:uly="0" cc:lrx="2361" cc:lry="3261">
+<cc:zoneColumn cc:zoneSeq="5" cc:ulx="1268" cc:uly="2371" cc:lrx="1668" cc:lry="2449">
+<cc:zoneWord>
+<cc:text>FINANCIAL</cc:text>
+<cc:text_coord cc:ulx="1288" cc:uly="2394" cc:lrx="1464" cc:lry="2424" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>SERVICES</cc:text>
+<cc:text_coord cc:ulx="1474" cc:uly="2394" cc:lrx="1637" cc:lry="2424" />
+</cc:zoneWord>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="6" cc:ulx="1213" cc:uly="2564" cc:lrx="1533" cc:lry="2610">
+<cc:zoneWord>
+<cc:text>www41caschclpcom</cc:text>
+<cc:text_coord cc:ulx="1220" cc:uly="2566" cc:lrx="1508" cc:lry="2598" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.4leasehelp.com" cc:ulx="1213" cc:uly="2564" cc:lrx="1533" cc:lry="2610"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="7" cc:ulx="1216" cc:uly="2717" cc:lrx="1594" cc:lry="2780">
+<cc:zoneWord>
+<cc:text>wwwaccordlcasingcom</cc:text>
+<cc:text_coord cc:ulx="1221" cc:uly="2732" cc:lrx="1555" cc:lry="2764" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.accordleasing.com" cc:ulx="1216" cc:uly="2717" cc:lrx="1594" cc:lry="2780"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="8" cc:ulx="1213" cc:uly="2928" cc:lrx="1494" cc:lry="2987">
+<cc:zoneWord>
+<cc:text>wwwac</cc:text>
+<cc:text_coord cc:ulx="1221" cc:uly="2950" cc:lrx="1331" cc:lry="2966" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>rginccom</cc:text>
+<cc:text_coord cc:ulx="1335" cc:uly="2941" cc:lrx="1468" cc:lry="2973" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.acrginc.com" cc:ulx="1213" cc:uly="2928" cc:lrx="1494" cc:lry="2987"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="9" cc:ulx="1218" cc:uly="3077" cc:lrx="1652" cc:lry="3127">
+<cc:zoneWord>
+<cc:text>wwwatlanticcommercialcom</cc:text>
+<cc:text_coord cc:ulx="1220" cc:uly="3091" cc:lrx="1630" cc:lry="3117" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.atlanticcomercial.com" cc:ulx="1218" cc:uly="3077" cc:lrx="1652" cc:lry="3127"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="10" cc:ulx="1752" cc:uly="242" cc:lrx="2034" cc:lry="283">
+<cc:zoneWord>
+<cc:text>wwwbhg-inccom</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="249" cc:lrx="2007" cc:lry="281" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.bhg-inc.com" cc:ulx="1752" cc:uly="242" cc:lrx="2034" cc:lry="283"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="11" cc:ulx="1751" cc:uly="409" cc:lrx="2166" cc:lry="454">
+<cc:zoneWord>
+<cc:text>wwwcapital4healthcarccom</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="416" cc:lrx="2152" cc:lry="448" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.capital4healthcare.com" cc:ulx="1751" cc:uly="409" cc:lrx="2166" cc:lry="454"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="12" cc:ulx="1748" cc:uly="576" cc:lrx="2064" cc:lry="625">
+<cc:zoneWord>
+<cc:text>wwwchi</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="582" cc:lrx="1878" cc:lry="607" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>rocapital</cc:text>
+<cc:text_coord cc:ulx="1883" cc:uly="582" cc:lrx="1998" cc:lry="614" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>net</cc:text>
+<cc:text_coord cc:ulx="2011" cc:uly="586" cc:lrx="2050" cc:lry="608" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.chirocaital.net" cc:ulx="1748" cc:uly="576" cc:lrx="2064" cc:lry="625"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="13" cc:ulx="1746" cc:uly="741" cc:lrx="2132" cc:lry="785">
+<cc:zoneWord>
+<cc:text>wwwchinihcalthusacom</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="749" cc:lrx="2104" cc:lry="774" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.chirohealthusa.com" cc:ulx="1746" cc:uly="741" cc:lrx="2132" cc:lry="785"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="14" cc:ulx="1752" cc:uly="955" cc:lrx="2092" cc:lry="987">
+<cc:zoneWord>
+<cc:text>www</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="966" cc:lrx="1828" cc:lry="981" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>cliirosccurccom</cc:text>
+<cc:text_coord cc:ulx="1834" cc:uly="957" cc:lrx="2063" cc:lry="983" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.chirosecure.com" cc:ulx="1752" cc:uly="955" cc:lrx="2092" cc:lry="987"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="15" cc:ulx="1943" cc:uly="987" cc:lrx="2092" cc:lry="1033">
+<cc:zoneWord>
+<cc:text>PAGE</cc:text>
+<cc:text_coord cc:ulx="1945" cc:uly="1000" cc:lrx="2032" cc:lry="1024" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>23</cc:text>
+<cc:text_coord cc:ulx="2042" cc:uly="1000" cc:lrx="2076" cc:lry="1024" />
+</cc:zoneWord>
+<cc:zoneJump destination="23" cc:ulx="1943" cc:uly="987" cc:lrx="2092" cc:lry="1033"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="16" cc:ulx="1753" cc:uly="1161" cc:lrx="2104" cc:lry="1200">
+<cc:zoneWord>
+<cc:text>wwwclcargageincconi</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="1166" cc:lrx="2075" cc:lry="1198" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.cleargageinc.com" cc:ulx="1753" cc:uly="1161" cc:lrx="2104" cc:lry="1200"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="17" cc:ulx="1943" cc:uly="1201" cc:lrx="2102" cc:lry="1240">
+<cc:zoneWord>
+<cc:text>E62</cc:text>
+<cc:text_coord cc:ulx="2015" cc:uly="1209" cc:lrx="2076" cc:lry="1233" />
+</cc:zoneWord>
+<cc:zoneJump destination="62" cc:ulx="1943" cc:uly="1201" cc:lrx="2102" cc:lry="1240"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="18" cc:ulx="1748" cc:uly="1362" cc:lrx="2030" cc:lry="1411">
+<cc:zoneWord>
+<cc:text>wwwclinicdrcom</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="1374" cc:lrx="2008" cc:lry="1399" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.clinicdr.com" cc:ulx="1748" cc:uly="1362" cc:lrx="2030" cc:lry="1411"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="19" cc:ulx="1751" cc:uly="1537" cc:lrx="2126" cc:lry="1573">
+<cc:zoneWord>
+<cc:text>vwvwcoflniancapitalcom</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="1541" cc:lrx="2110" cc:lry="1573" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.coffmancapital.com" cc:ulx="1751" cc:uly="1537" cc:lrx="2126" cc:lry="1573"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="20" cc:ulx="1750" cc:uly="1701" cc:lrx="2055" cc:lry="1743">
+<cc:zoneWord>
+<cc:text>wwwelect-mcrcom</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="1708" cc:lrx="2030" cc:lry="1733" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.elect-mer.com" cc:ulx="1750" cc:uly="1701" cc:lrx="2055" cc:lry="1743"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="21" cc:ulx="1748" cc:uly="1868" cc:lrx="2158" cc:lry="1917">
+<cc:zoneWord>
+<cc:text>wwwclcctronictranslercom</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="1874" cc:lrx="2143" cc:lry="1900" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.electronictransfer.com" cc:ulx="1748" cc:uly="1868" cc:lrx="2158" cc:lry="1917"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="22" cc:ulx="1751" cc:uly="2080" cc:lrx="2191" cc:lry="2118">
+<cc:zoneWord>
+<cc:text>wwwfidclitvcapitalonlincconi</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="2083" cc:lrx="2178" cc:lry="2115" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.fidelitycapitalonline.com" cc:ulx="1751" cc:uly="2080" cc:lrx="2191" cc:lry="2118"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="23" cc:ulx="1752" cc:uly="2243" cc:lrx="2181" cc:lry="2284">
+<cc:zoneWord>
+<cc:text>w</cc:text>
+<cc:text_coord cc:ulx="1758" cc:uly="2257" cc:lrx="1780" cc:lry="2274" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wwlundingwcllcapitalcom</cc:text>
+<cc:text_coord cc:ulx="1784" cc:uly="2249" cc:lrx="2162" cc:lry="2281" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.fundingwellcapital.com" cc:ulx="1752" cc:uly="2243" cc:lrx="2181" cc:lry="2284"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="24" cc:ulx="1753" cc:uly="2450" cc:lrx="2202" cc:lry="2502">
+<cc:zoneWord>
+<cc:text>wwwgchcalthcarcfinancccom</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="2458" cc:lrx="2179" cc:lry="2490" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.gehealthcarefinance.com" cc:ulx="1753" cc:uly="2450" cc:lrx="2202" cc:lry="2502"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="25" cc:ulx="1747" cc:uly="2617" cc:lrx="2047" cc:lry="2669">
+<cc:zoneWord>
+<cc:text>wwwgsrpbscom</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="2624" cc:lrx="1994" cc:lry="2657" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.gsrpbs.com" cc:ulx="1747" cc:uly="2617" cc:lrx="2047" cc:lry="2669"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="26" cc:ulx="1751" cc:uly="2781" cc:lrx="2127" cc:lry="2832">
+<cc:zoneWord>
+<cc:text>wwwapplyforlcasccom</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="2791" cc:lrx="2086" cc:lry="2823" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.applyforlease.com" cc:ulx="1751" cc:uly="2781" cc:lrx="2127" cc:lry="2832"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="27" cc:ulx="1753" cc:uly="2950" cc:lrx="2173" cc:lry="2995">
+<cc:zoneWord>
+<cc:text>wwwinsclmancoachiiigcom</cc:text>
+<cc:text_coord cc:ulx="1757" cc:uly="2958" cc:lrx="2154" cc:lry="2990" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.inselmancoaching.com" cc:ulx="1753" cc:uly="2950" cc:lrx="2173" cc:lry="2995"/>
+</cc:zoneColumn>
+</cc:zonePage>
+</cc:zoneImage>
+<cc:zoneImage cc:src="200000_20140603_026.jpg">
+<cc:zonePage id="24" cc:ulx="0" cc:uly="0" cc:lrx="2361" cc:lry="3261">
+<cc:zoneColumn cc:zoneSeq="28" cc:ulx="1193" cc:uly="262" cc:lrx="1577" cc:lry="303">
+<cc:zoneWord>
+<cc:text>wvvwI</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="268" cc:lrx="1302" cc:lry="292" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>KAI-financialcom</cc:text>
+<cc:text_coord cc:ulx="1306" cc:uly="267" cc:lrx="1566" cc:lry="292" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.LEAF-financial.com" cc:ulx="1193" cc:uly="262" cc:lrx="1577" cc:lry="303"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="29" cc:ulx="1193" cc:uly="434" cc:lrx="1493" cc:lry="468">
+<cc:zoneWord>
+<cc:text>medchcxorg</cc:text>
+<cc:text_coord cc:ulx="1268" cc:uly="443" cc:lrx="1458" cc:lry="466" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.medchex.org" cc:ulx="1193" cc:uly="434" cc:lrx="1493" cc:lry="468"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="30" cc:ulx="1388" cc:uly="469" cc:lrx="1533" cc:lry="512">
+<cc:zoneWord>
+<cc:text>PAGE</cc:text>
+<cc:text_coord cc:ulx="1388" cc:uly="477" cc:lrx="1476" cc:lry="501" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>27</cc:text>
+<cc:text_coord cc:ulx="1486" cc:uly="477" cc:lrx="1519" cc:lry="501" />
+</cc:zoneWord>
+<cc:zoneJump destination="27" cc:ulx="1388" cc:uly="469" cc:lrx="1533" cc:lry="512"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="31" cc:ulx="1195" cc:uly="638" cc:lrx="1576" cc:lry="679">
+<cc:zoneWord>
+<cc:text>wwwnciniccom</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="642" cc:lrx="1432" cc:lry="667" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>financial</cc:text>
+<cc:text_coord cc:ulx="1446" cc:uly="642" cc:lrx="1563" cc:lry="667" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.ncmic.com/financial" cc:ulx="1195" cc:uly="638" cc:lrx="1576" cc:lry="679"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="32" cc:ulx="1195" cc:uly="803" cc:lrx="1681" cc:lry="846">
+<cc:zoneWord>
+<cc:text>wwwnortlianicricanbancardscom</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="809" cc:lrx="1673" cc:lry="835" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.northamericanbancards.com" cc:ulx="1195" cc:uly="803" cc:lrx="1681" cc:lry="846"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="33" cc:ulx="1195" cc:uly="976" cc:lrx="1602" cc:lry="1013">
+<cc:zoneWord>
+<cc:text>oumchiropracUircom</cc:text>
+<cc:text_coord cc:ulx="1284" cc:uly="981" cc:lrx="1576" cc:lry="1008" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.oumchiropractor.com" cc:ulx="1195" cc:uly="976" cc:lrx="1602" cc:lry="1013"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="34" cc:ulx="1189" cc:uly="1136" cc:lrx="1697" cc:lry="1181">
+<cc:zoneWord>
+<cc:text>wwwPatientPaYmentSolutionscom</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="1142" cc:lrx="1688" cc:lry="1168" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.PatientPaymentSolutions.com" cc:ulx="1189" cc:uly="1136" cc:lrx="1697" cc:lry="1181"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="35" cc:ulx="1193" cc:uly="1301" cc:lrx="1471" cc:lry="1353">
+<cc:zoneWord>
+<cc:text>wwwpaychexcom</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="1309" cc:lrx="1460" cc:lry="1342" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.paychex.com" cc:ulx="1193" cc:uly="1301" cc:lrx="1471" cc:lry="1353"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="36" cc:ulx="1194" cc:uly="1514" cc:lrx="1695" cc:lry="1604">
+<cc:zoneWord>
+<cc:text>vv</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="1527" cc:lrx="1251" cc:lry="1543" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>wphysiciansspecialty</cc:text>
+<cc:text_coord cc:ulx="1256" cc:uly="1518" cc:lrx="1563" cc:lry="1551" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>services,</cc:text>
+<cc:text_coord cc:ulx="1566" cc:uly="1518" cc:lrx="1688" cc:lry="1543" />
+</cc:zoneWord>
+<cc:zoneWord>
+<cc:text>com</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="1568" cc:lrx="1258" cc:lry="1585" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.physiciansspecialtyservices.com" cc:ulx="1194" cc:uly="1514" cc:lrx="1695" cc:lry="1604"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="37" cc:ulx="1186" cc:uly="1721" cc:lrx="1604" cc:lry="1769">
+<cc:zoneWord>
+<cc:text>wwwpromcd-riiiancialcom</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="1726" cc:lrx="1586" cc:lry="1758" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.promed-financial.com" cc:ulx="1186" cc:uly="1721" cc:lrx="1604" cc:lry="1769"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="38" cc:ulx="1193" cc:uly="1890" cc:lrx="1520" cc:lry="1933">
+<cc:zoneWord>
+<cc:text>wwwsharpclcasecom</cc:text>
+<cc:text_coord cc:ulx="1201" cc:uly="1893" cc:lrx="1508" cc:lry="1925" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.sharpelease.com" cc:ulx="1193" cc:uly="1890" cc:lrx="1520" cc:lry="1933"/>
+</cc:zoneColumn>
+<cc:zoneColumn cc:zoneSeq="39" cc:ulx="1181" cc:uly="2057" cc:lrx="1498" cc:lry="2094">
+<cc:zoneWord>
+<cc:text>wwwhclpcardcom</cc:text>
+<cc:text_coord cc:ulx="1202" cc:uly="2059" cc:lrx="1466" cc:lry="2091" />
+</cc:zoneWord>
+<cc:zoneJump destination="www.helpcard.com" cc:ulx="1181" cc:uly="2057" cc:lrx="1498" cc:lry="2094"/>
+</cc:zoneColumn>
+</cc:zonePage>
+</cc:zoneImage>
+</ocr_content>
+<body keyconf="98">
+<p>4 I .ease Help</p>
+<p>888-346-6871 www.41easehelp.com</p>
+<p>Accord leasing</p>
+<p>800-347-4977</p>
+<p>\\ \\ Av.accordlcasing.com</p>
+<p>Advantage Claims Recovery Group, Inc.</p>
+<p>800-423-2419 www.acrginc.com</p>
+<p>Atlantic Commercial Credit</p>
+<p>800-669-8008 www.atlanticcommercial.com</p>
+<p>Hankers Healthcare Group, Inc.</p>
+<p>866-297-4664 www.bhg-inc.com</p>
+<p>Capital 4 Healthcare, LLC</p>
+<p>800-324-8808</p>
+<p>www .capital41iealthcare.com</p>
+<p>Chiro Capital</p>
+<p>888-322-2533</p>
+<p>\v\\ \\.chirocapital.net</p>
+<p>Chiro Health ISA</p>
+<p>888-719-9990</p>
+<p>www .cliiroliealtliusa.com</p>
+<p>Chirosecure Malpractice Insurance</p>
+<p>866-802-4476</p>
+<p>w wu.cliirosecure.com</p>
+<p>SEE AD ON PAGE 23</p>
+<p>Clear Gage Inc.</p>
+<p>800-227-5932</p>
+<p>www .cleargageinc.com</p>
+<p>SEE AD ON PAGE 62</p>
+<p>Clinic Doctor</p>
+<p>866-999-5859 www.clinicdr.com</p>
+<p>( of fin an Capital, Inc.</p>
+<p>877-661-8069</p>
+<p>w w\v. coffmancapital.com</p>
+<p>Electronic Merchants System</p>
+<p>800-476-5020 www.elect-mer.com</p>
+<p>Electronic Transfer, Inc.</p>
+<p>800-757-5453 www.electronictranstbr.com</p>
+<p>Fidelity Capital</p>
+<p>(We can finance you!) 949-502-5900 ext. 243 www.fi del itycapitalonlinc.com</p>
+<p>Funding Well Capital</p>
+<p>866-578-9355 www.fundingwellcapital.com</p>
+<p>GE Healthcare Financial Services</p>
+<p>800-598-6201 www.geliealthcarefinance.com</p>
+<p>GSR/ Physician's Billing Service</p>
+<p>888-918-5233 www.gsrpbs.com</p>
+<p>Horizon Keystone Financial</p>
+<p>800-606-0049 www.appKlbrlease.com</p>
+<p>Inselman Coaching</p>
+<p>888-201-0567 www.inselmancoacliina.com</p>
+<p>Leaf Financial Corporation</p>
+<p>800-819-5556</p>
+<p>\\ \\ w.I .KAF-rinancial.com</p>
+<p>MedChex</p>
+<p>866-709-1100 ext. 101 www.mcdchex.org SEE AD ON PAGE 27</p>
+<p>NCMIC</p>
+<p>800-769-200 cxt. 4200 www.ncmic.com financial</p>
+<p>North American Bancard</p>
+<p>866-321-0877 www.northamcricanbancards.com</p>
+<p>Ol'M Chiropractor Program</p>
+<p>800-453-2776 www.oumchiropractor.com</p>
+<p>Patient Payment Solutions</p>
+<p>800-501-3897</p>
+<p>www.PatientPa\ nientSolutions.com</p>
+<p>Paychex</p>
+<p>800-322-7292</p>
+<p>w w w. paychex.com</p>
+<p>Physicians Specialty Services</p>
+<p>800-706-5722</p>
+<p>www.physiciansspecialty services, com</p>
+<p>ProMed Financial, Inc.</p>
+<p>888-277-6633 www.promed-financial.com</p>
+<p>Sharpe Equipment Leasing, Lie.</p>
+<p>800-886-4920 www.sharpelease.com</p>
+<p>TheHKLPcard</p>
+<p>888-750-6793 www.helpcard.com</p>
+</body>
+</pam:article>
+</pam:message>
+
